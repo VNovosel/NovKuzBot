@@ -109,4 +109,4 @@ def call_back_help(call):
 
 
 ############# бесконечный цикл ожидания запросов от пользователей
-#bot.polling(none_stop=True, interval=0)
+bot.polling(none_stop=True, interval=0)
